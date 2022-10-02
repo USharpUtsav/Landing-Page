@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@600&family=Figtree:wght@800&family=Raleway:wght@500&display=swap');
+.min-screen{
+    min-height: 100vh;
+}
+
+.bgr{
+    color:orange;
+}
+
+.m-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.justbetn{
+    justify-content: space-between;
+}
+.justcenter{
+    justify-content: center;
+}
+.itemscenter{
+    align-items: center;
+}
+.fontbold{
+    font-weight: bolder;
+}
+.flexcol{
+    flex-direction: column;
+}
+.my1{
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+.my2{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.pa2{
+    padding-left: 14px;
+    padding-right: 14px;
+}
+.btn{
+    padding: 5px 11px;
+    border: 2px solid black;
+    border-radius: 7px;
+    color: white;
+    background-color: orange;
+    cursor: pointer;
+}
+
+.overflowhid{
+    overflow-x: hidden;
+}
+.font1{
+    font-family: 'Figtree', sans-serif;
+
+}
+.textcen{
+    text-align: center;
+}
+.mar1{
+    margin: 18px 11px;
+    padding: 6px 65px;
+}
